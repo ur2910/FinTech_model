@@ -4,7 +4,7 @@ import { OpenAIStream, StreamingTextResponse } from 'ai'
 
 // Create an OpenAI API client (that's edge friendly!)
 const openai = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY || 'usha_r_pm'
+  apiKey: process.env.OPENAI_API_KEY || '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'
 })
 
 // IMPORTANT! Set the runtime to edge

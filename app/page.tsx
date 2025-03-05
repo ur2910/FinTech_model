@@ -14,9 +14,8 @@ import Textarea from "react-textarea-autosize";
 import Image from "next/image";
 
 const examples = [
-  "Hello",
-  "How's it going?",
-  "Can I get some help with this?",
+  "What is a stock?",
+  "What is risk?",
 ];
 
 export default function Chat() {

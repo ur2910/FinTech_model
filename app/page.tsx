@@ -83,7 +83,7 @@ export default function Chat() {
               className="h-20 w-20"
             />
             <h1 className="text-lg font-semibold text-black">
-              Hi, I'm a FinTech assistant ready to answer your questions!.
+              Hi, I'm a FinTech assistant ready to answer your questions!
             </h1>
             <p className="text-gray-500">
               I'm part of a series of computational experiments taught by{" "}
